@@ -1,0 +1,7 @@
+Flask provides support for API, while Django doesn't have any support for API.
+Flask does not support dynamic HTML pages, and Django offers dynamic HTML pages. 
+Flask is a Python web framework built for rapid development, whereas Django is built for easy and simple projects.
+Flask will make your life easier than Django if you're looking to create a simple web app with a few static pages.
+Many programmers find Flask to be easily scalable for smaller web applications. 
+It comes with a built-in development server and fast debugger.
+
